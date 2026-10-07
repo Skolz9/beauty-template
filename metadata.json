@@ -1,0 +1,6 @@
+{
+  "name": "Maison Argana — Salon de Beauté & Clinique Esthétique Agadir",
+  "description": "Template premium de réservation et SEO local pour salon de beauté et clinique esthétique au Maroc. Hydrafacial, soins du visage, épilation laser, manucure gel et hammam à Agadir.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
